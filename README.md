@@ -1,6 +1,6 @@
-# CauVQ
+### 📁 Project File Structure
 
-
+```text
 CauVQ/
 ├── data/                       # Data storage directory
 ├── causal.py                   # Causal Core: DegreeLayer for masking
@@ -17,5 +17,3 @@ CauVQ/
 ├── train_syn.py                # SPMotif baseline training
 ├── train_syn_perturb.py        # SPMotif training on perturbed data
 └── train_OOD_perturb.py        # OGB training on reduced training set
-
-
